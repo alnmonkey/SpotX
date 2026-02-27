@@ -858,7 +858,7 @@
                 "native_description": "Extract background color based on artwork image",
                 "version": {
                     "fr": "1.2.1",
-                    "to": ""
+                    "to": "1.2.78"
                 }
             },
             "SilenceTrimmer": {
